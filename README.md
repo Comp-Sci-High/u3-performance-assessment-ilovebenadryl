@@ -1,3 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/HARs_Oy5)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=17629843&assignment_repo_type=AssignmentRepo)
-# node-template
+<!-- I chose this API becuse I have a deep interest in the NBA. I have several 2k games as well as the subscription to watch any NBA game I want. My primary goal is to share my interest with others so they can be entertained as well. -->
+
+<!-- My API gives information as well as fun facts for every single NBA team. Info such as the number of championships won, current players, and more. -->
+
+<!-- Building my own API was more easy compared, to using other API's in unit 2. The experience of building an API is much more smoother and requires way less steps compared to using an API. -->
